@@ -7,6 +7,8 @@ h3, {
 
 h1,h2{
   text-align: center;
+  color: #f7f7f7;
+  text-shadow: .5px 0px .5px white;
 }
 
 body{
@@ -14,7 +16,7 @@ body{
   /* background-color: #cc2200; */
    /* background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(8,7,7,1) 91%); */
    background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%);
-  color: white;
+  color: #f7f7f7;
 }
 li{
   list-style: none;
@@ -28,11 +30,11 @@ ul{
   background-color: #cc0000;
   margin-bottom: 7em;
   padding: 10px;
-  /* text-align: justify; */
   color: white;
   text-shadow: .5px .5px .5px black;
   font-size: 8px;
   text-align: center;
+      box-shadow: 5px 5px 15px 5px #black;
 
 
 }
@@ -69,6 +71,8 @@ ul{
   text-shadow: 2px 2px 2px black;
   font-size: .75em;
   font-weight: bold;
+  color: #f7f7f7;
+  font-weight: bold;
 
 }
 
@@ -90,9 +94,15 @@ ul{
 }
 .faq {
   margin-top: 3em;
-}
 
+}
+.blue-box{
+    background-color: #0275d8;
+    border-radius: 2px;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 5px #292b2c;
+    margin-bottom: 3em;
+}
 footer{
-  color:black;
-  border: solid red 2px;
+  background-color: #0275d8;
 }
