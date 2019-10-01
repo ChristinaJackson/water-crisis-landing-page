@@ -1,0 +1,97 @@
+
+
+h3, {
+  color: black;
+  text-align: center;
+}
+
+h1,h2{
+  text-align: center;
+}
+body{
+  /* background-image: url('papyrus-dark/papyrus-dark.png'); */
+  /* background-color: #cc2200; */
+   /* background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(8,7,7,1) 91%); */
+   background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%);
+  color: white;
+}
+li{
+  list-style: none;
+
+}
+ul{
+  margin-top: 0;
+}
+
+.intro{
+  background-color: #cc0000;
+  margin-bottom: 7em;
+  padding: 10px;
+  /* text-align: justify; */
+  color: white;
+  text-shadow: .5px .5px .5px black;
+  font-size: 8px;
+  text-align: center;
+
+
+}
+.we-do{
+  font-size: 1.2em;
+}
+
+.the-list{
+  font-size: 1.2em;
+  padding: 0;
+}
+
+.list-title{
+  margin-bottom: 0;
+  text-decoration: underline;
+  font-size: 1em;
+  font-weight: bold;
+}
+.navbar {
+  /* background-color: black !important; */
+  color: white;
+}
+
+.jumbotron {
+  background-image: url("waterhands.jpg");
+  background-size: cover;
+  font-size: 5em;
+  margin-bottom: 0;
+}
+
+
+.jumbotron-text,
+.header-text{
+  text-shadow: 2px 2px 2px black;
+  font-size: .75em;
+  font-weight: bold;
+
+}
+
+.btn a{
+  position: relative;
+  top: 2px;
+}
+
+.call-to-action {
+  color:white;
+  background-color: black;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  margin: 1.5em 0;
+  /* text-shadow: 1px 1px 1px #000; */
+  font-size: 1.5em;
+  padding: 0;
+}
+.faq {
+  margin-top: 3em;
+}
+
+footer{
+  color:black;
+  border: solid red 2px;
+}
