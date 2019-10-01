@@ -15,8 +15,9 @@ body{
   /* background-image: url('papyrus-dark/papyrus-dark.png'); */
   /* background-color: #cc2200; */
    /* background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(8,7,7,1) 91%); */
-   background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%);
-  color: #f7f7f7;
+   /* background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%); */
+  /* color: #f7f7f7; */
+  color: #292b2c;
 }
 li{
   list-style: none;
@@ -27,7 +28,8 @@ ul{
 }
 
 .intro{
-  background-color: #cc0000;
+  /* background-color: #cc0000; */
+  background-color: #0275d8;
   margin-bottom: 7em;
   padding: 10px;
   color: white;
@@ -93,15 +95,26 @@ ul{
   padding: 0;
 }
 .faq {
-  margin-top: 3em;
+
+  margin-bottom: 5em;
 
 }
 .blue-box{
     background-color: #0275d8;
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 20px;
-    box-shadow: 5px 5px 15px 5px #292b2c;
+    box-shadow: 1px 1px 1px 1px black;
     margin-bottom: 3em;
+}
+.donation-box{
+  /* margin-top:2em; */
+  background-color: #0275d8;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 5px 5px 15px 5px #292b2c;
+}
+.last-item{
+  margin-bottom: 2em;
 }
 footer{
   background-color: #0275d8;
