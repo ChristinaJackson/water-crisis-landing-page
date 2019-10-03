@@ -7,7 +7,7 @@ h3, {
 
 h1,h2{
   text-align: center;
-  color: #f7f7f7;
+  color: black;
   text-shadow: .5px 0px .5px white;
 }
 
@@ -65,6 +65,8 @@ ul{
   background-size: cover;
   font-size: 5em;
   margin-bottom: 0;
+  background-color: lightblue;
+  background-blend-mode: multiply;
 }
 
 
