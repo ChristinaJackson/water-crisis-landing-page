@@ -7,17 +7,18 @@ h3, {
 
 h1,h2{
   text-align: center;
-  color: black;
+  color: #EBEFEF;
   text-shadow: .5px 0px .5px white;
 }
 
 body{
   /* background-image: url('papyrus-dark/papyrus-dark.png'); */
   /* background-color: #cc2200; */
-   /* background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(8,7,7,1) 91%); */
+/* background: radial-gradient(circle, rgba(0,0,0,1) 45%, rgba(11,39,116,1) 100%); */
    /* background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%); */
   /* color: #f7f7f7; */
-  color: #292b2c;
+  color: #EBEFEF;
+  background:#171F2C;
 }
 li{
   list-style: none;
@@ -29,14 +30,14 @@ ul{
 
 .intro{
   /* background-color: #cc0000; */
-  background-color: #0275d8;
+  background-color: #49A4CE;
   margin-bottom: 7em;
   padding: 10px;
-  color: white;
-  text-shadow: .5px .5px .5px black;
-  font-size: 8px;
+  color: #EBEFEF;
+  /* text-shadow: .5px .5px .5px black; */
   text-align: center;
-      box-shadow: 5px 5px 15px 5px #black;
+  /* box-shadow: 5px 5px 15px 5px black; */
+  font-weight: bold;
 
 
 }
@@ -56,7 +57,7 @@ ul{
   font-weight: bold;
 }
 .navbar {
-  /* background-color: black !important; */
+  background-color: #171F2C !important;
   color: white;
 }
 
@@ -65,7 +66,7 @@ ul{
   background-size: cover;
   font-size: 5em;
   margin-bottom: 0;
-  background-color: lightblue;
+  /* background-color: #576576; */
   background-blend-mode: multiply;
 }
 
@@ -97,7 +98,7 @@ ul{
   padding: 0;
 }
 .faq {
-
+  margin-top: 3em;
   margin-bottom: 5em;
 
 }
@@ -119,5 +120,5 @@ ul{
   margin-bottom: 2em;
 }
 footer{
-  background-color: #0275d8;
+  background-color: #576576;
 }
