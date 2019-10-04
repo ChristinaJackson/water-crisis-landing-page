@@ -18,7 +18,7 @@ body{
    /* background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%); */
   /* color: #f7f7f7; */
   color: #EBEFEF;
-  background-color: #181B25;
+  background-color: #1B1E2D;
   /* background:#171F2C; */
 }
 li{
@@ -58,7 +58,7 @@ ul{
   font-weight: bold;
 }
 .navbar {
-  background-color: #171F2C !important;
+  background-color: #1B1E2D !important;
   color: white;
 }
 
@@ -121,5 +121,5 @@ ul{
   margin-bottom: 2em;
 }
 footer{
-  background:#171F2C;
+  background:#42769C;
 }
