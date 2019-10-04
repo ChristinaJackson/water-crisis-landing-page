@@ -18,7 +18,8 @@ body{
    /* background: radial-gradient(circle, rgba(38,34,34,1) 55%, rgba(0,0,0,1) 100%); */
   /* color: #f7f7f7; */
   color: #EBEFEF;
-  background:#171F2C;
+  background-color: black;
+  /* background:#171F2C; */
 }
 li{
   list-style: none;
@@ -30,7 +31,7 @@ ul{
 
 .intro{
   /* background-color: #cc0000; */
-  background-color: #49A4CE;
+  background-color: #42769c;
   margin-bottom: 7em;
   padding: 10px;
   color: #EBEFEF;
@@ -120,5 +121,5 @@ ul{
   margin-bottom: 2em;
 }
 footer{
-  background-color: #576576;
+  background:#171F2C;
 }
