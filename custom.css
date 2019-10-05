@@ -47,14 +47,19 @@ ul{
 }
 
 .the-list{
-  font-size: 1.2em;
-  padding: 0;
+/* background-color: #6D8CA3; */
+background-color: #EAEEF0;
+color: #1B1E2D;
+font-weight: bold;
+border-radius: 5px;
+vertical-align: middle;
+/* padding-top: 15px; */
+box-shadow: 2px 2px 2px 2px #171F2C;
 }
 
 .list-title{
   margin-bottom: 0;
   text-decoration: underline;
-  font-size: 1em;
   font-weight: bold;
 }
 
@@ -75,7 +80,7 @@ ul{
 
 .jumbotron-text,
 .header-text{
-  text-shadow: 2px 2px 2px black;
+  text-shadow: 2px 2px 2px #1B1E2D;
   font-size: .75em;
   font-weight: bold;
   color: #f7f7f7;
@@ -119,8 +124,14 @@ ul{
   box-shadow: 5px 5px 15px 5px #292b2c;
 }
 .last-item{
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+}
+.bottom-button{
+  margin-bottom: 1em;
 }
 footer{
   background:#42769C;
+}
+.footer-links{
+  border: solid red 2px;
 }
