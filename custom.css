@@ -42,26 +42,26 @@ ul{
 
 
 }
-.we-do{
+/* .we-do{
   font-size: 1.2em;
-}
+  padding-top: 1em;
+} */
 
 .the-list{
-/* background-color: #6D8CA3; */
-background-color: #EAEEF0;
-color: #1B1E2D;
-font-weight: bold;
+/* background-color: #EAEEF0;  */ *
+border: solid  2px red;
+/* color: #1B1E2D; */
+/* color: #EAEEF0;
 border-radius: 5px;
-vertical-align: middle;
-/* padding-top: 15px; */
-box-shadow: 2px 2px 2px 2px #171F2C;
+padding: 0.5em;
+
 }
 
-.list-title{
-  margin-bottom: 0;
+/* .list-title{
+  margin-bottom: .5em;
   text-decoration: underline;
   font-weight: bold;
-}
+} */
 
 .navbar {
   background-color: #1B1E2D !important;
